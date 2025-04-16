@@ -18,11 +18,9 @@ function [vp, vect, error] = PuissanceInverse(A, x0, N)
     end
     vect = xNew;
     vp = 1/vp
-    //decommenter pour tracer
-    /*
     plot(1:N, vp_evolution, '-o');
     xlabel("N");
     ylabel("Plus Grande Valeur Propre");
     title("VP evolution par iteration");
-    xtitle("Methode de la puissance iterée"); */
+    xtitle("Methode de la puissance iterée");
 endfunction
