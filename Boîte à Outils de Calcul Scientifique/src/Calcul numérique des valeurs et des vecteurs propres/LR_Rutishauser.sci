@@ -28,14 +28,11 @@ function [AN, LN, convergence] = LR(A, N)
         maxHorsDiagonal = max(abs(triangInf));
         convergence = [convergence, maxHorsDiagonal];
     end
-    
-    //decommenter pour tracer  
-    /*
+
     clf;
     plot(1:N, convergence, '-o');
     xlabel("N");
     ylabel("Convergence de la methode du LR");
     title("Convergence de la methode du LR");
     xtitle("Convergence de la methide du LR");
-    */
 endfunction
