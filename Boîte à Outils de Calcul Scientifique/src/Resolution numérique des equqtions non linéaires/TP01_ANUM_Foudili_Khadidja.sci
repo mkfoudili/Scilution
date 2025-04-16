@@ -1,4 +1,4 @@
-// Methodes devloppées : Dichotomie, Newton
+// Methodes devloppées : Dichotomie, Newton, SECANTE
 //*************************************************************************************
 
 funcprot(0);
