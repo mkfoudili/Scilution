@@ -37,6 +37,10 @@ Les contributions sont les bienvenues ! Si tu veux :
   3. améliorer les documents pédagogiques
 n'hésite pas à **ouvrir une issue** ou à faire une **pull request**.  
   
+## 📜 Licence  
+Ce projet est sous licence MIT  
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
+  
 ## 👨‍💻 Auteur:  
 Développé avec ❤️ par [Khadidja Foudili](https://github.com/mkfoudili)  
 ![Made with Scilab](https://img.shields.io/badge/made%20with-Scilab-blue)
