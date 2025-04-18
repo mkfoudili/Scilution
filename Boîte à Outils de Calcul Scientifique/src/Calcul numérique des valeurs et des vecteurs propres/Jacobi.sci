@@ -42,14 +42,11 @@ function [AN, QN, convergence] = Jacobi(A, N)
         AN = Q' * AN * Q; //la transpose est l'inverse
         QN = QN * Q;
     end
-     
-    //decommenter pour tracer  
-    /*
+
     clf;
     plot(1:N, convergence, '-o');
     xlabel("N");
     ylabel("Convergence de la methide du Jacobi");
     title("Convergence de la methide du Jacobi");
     xtitle("Convergence de la methide du Jacobi");
-    */
 endfunction
