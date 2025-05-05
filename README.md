@@ -8,6 +8,8 @@ Un ensemble d'implémentations d'**algorithmes d'analyse numérique** en **Scila
   ├── docs/      # Documents éducatifs et explications PDF  
   └── README.md  
   
+[Scilution Demo](https://mkfoudili.github.io/Scilution/)
+  
 ## 🚀 Comment utiliser:  
 1. Cloner le dépôt
 ```git  
